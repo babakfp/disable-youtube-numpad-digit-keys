@@ -4,10 +4,10 @@ Chrome extension that disables YouTube's numpad digit shortcuts to prevent accid
 
 ## Installation
 
-1. Go to `chrome://extensions`
-2. Enable "Developer mode"
-3. Click "Load unpacked"
-4. Select the extension folder
+1. Open `chrome://extensions` in your browser.
+2. Enable **Developer mode** (the switch at the top right corner).
+3. Click **Load unpacked**.
+4. Select the folder containing the extension.
 
 ## What it does
 
